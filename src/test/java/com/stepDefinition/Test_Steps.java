@@ -53,6 +53,7 @@ public class Test_Steps {
     public void user_clicks_on_login_button() {
 //        driver.findElement(By.className("login_button")).click();
         loginPg.clickloginbtn();
+         System.out.println("User clicks on Login button");
         
     }
 
